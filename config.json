@@ -1,0 +1,14 @@
+{
+  "width": 400,
+  "height": 105,
+  "scale": 0.681,
+  "x": 2024,
+  "y": 1363,
+  "always_on_top": true,
+  "acrylic": true,
+  "acrylic_tint": 0.32,
+  "sample_interval": 0.5,
+  "repaint_interval": 0.35,
+  "background_alpha": 0.46,
+  "taskbar_button": true
+}
