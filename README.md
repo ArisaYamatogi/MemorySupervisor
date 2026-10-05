@@ -14,7 +14,7 @@ Built for Windows 11 (verified on 25H2 26200)
 | Element | Meaning |
 | --- | --- |
 | Big percentage | Physical memory in use (`GlobalMemoryStatusEx`) |
-| Horizontal bar | The whole of physical RAM, with the used portion filled in yellow |
+| Horizontal bar | The whole of physical RAM, with the used portion |
 | `x.xx / x.xx GB` | Used / total physical memory |
 | Bottom-right grip | Drag to resize (the entire UI scales proportionally) |
 
